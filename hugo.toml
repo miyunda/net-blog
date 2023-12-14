@@ -1,4 +1,4 @@
-baseURL = "https://miyunda.net/"
+baseURL = "https://www.miyunda.net/"
 disablePathToLower = true
 
 # 更改使用 Hugo 构建网站时使用的默认主题
